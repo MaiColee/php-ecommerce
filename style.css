@@ -1,0 +1,46 @@
+h3,h4{
+    font-family:'Courier New';
+    text-align: center;
+}
+#indexmain{
+    text-align: center;
+}
+body{
+    background-color: gainsboro;
+}
+#regbtn{
+    align-content: center;
+}
+#product{
+text-align: center;
+font-family: 'Courier New';
+padding-bottom: 100px;
+}
+#footer{
+    font-size: 10px;
+}
+#shopmain{
+    background-color: #f8f9fa;
+}
+#basket{
+    font-family: 'Courier New';
+}
+.padding{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+#desc2{
+    
+}
+#detailpic{
+    height: 400px;
+  width: 550px;
+  margin-top: 20px;
+  margin-left: 100px;
+  float: left;
+}
+#logout{
+     position:fixed;
+   right:10px;
+   bottom:5px;
+}
