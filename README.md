@@ -1,6 +1,9 @@
 # php-ecommerce
 Basic ecommerce site demonstration using CRUD/CSS/Bootstrap/PHP/HTML
-Test data provided aside from images in the SQL files, Test images omitted due to lack of licensing. 
+
+Test data provided aside from images in the SQL files.
+
+Test images omitted due to lack of licensing. 
 
 Data uses HTML syntax for formatting in the database. 
 
